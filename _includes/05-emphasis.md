@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_full_ control of both __right-__ and __left-__ click!
+__bold__, _italic_, and even ___combinations!___
